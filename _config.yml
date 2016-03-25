@@ -1,0 +1,28 @@
+name: Hybrid Boating
+favicon: null
+layout_spectrum: 0.3805863815359771
+typography_spectrum: 0.11513277073390782
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8546784459613264
+  lightness: 0.8271982441656291
+  saturation: 0.5468097713310272
+  rhythmicContrast: 0.008241344476118684
+purpose: []
