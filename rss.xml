@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hybrid Boating]]></title>
+        <description><![CDATA[Hybrid Boating]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Mar 2016 16:50:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Hybrid Boating Dot Com]]></title>
+            <description><![CDATA[<article><h1>About Hybrid Boating Dot Com</h1><p>Boating is fun. The motors widely used to power our water toys are in overwhelming majority internal combustion engines. That doesn't only make boating noisy, it also makes it a water and air polluting hobby. The fuel burnt leaves residue and contributes to global warming.</p></article>]]></description>
+            <link>undefinedabout-hybrid-boating-dot-com/index.html</link>
+            <guid isPermaLink="false">55373e9a-6a73-445b-a4fe-599ac0481839</guid>
+            <pubDate>Fri, 25 Mar 2016 16:49:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
